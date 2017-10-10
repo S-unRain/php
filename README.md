@@ -1,3 +1,3 @@
-# lesson-2
+# lesson-3
 
-##### 主要讲解的内容为 if/switch
+##### 主要讲解的内容为 php array
