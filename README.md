@@ -1,3 +1,3 @@
-# lesson-4
+# lesson-5
 
-##### 主要讲解的内容为 php loops
+##### 主要讲解的内容为 php 函数
