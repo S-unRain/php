@@ -1,3 +1,3 @@
-# lesson-9
+# lesson-10
 
-##### 主要讲解的内容为 php website1
+##### 主要讲解的内容为 php shorthand
