@@ -1,3 +1,3 @@
-# lesson-12
+# lesson-13
 
-##### 主要讲解的内容为 php post和gest
+##### 主要讲解的内容为 php filters
