@@ -1,3 +1,3 @@
-# lesson-10
+# lesson-11
 
-##### 主要讲解的内容为 php shorthand
+##### 主要讲解的内容为 php 服务器&客户端配置信息
