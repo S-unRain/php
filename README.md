@@ -1,3 +1,3 @@
-# lesson-15
+# lesson-16
 
-##### 主要讲解的内容为 php session
+##### 主要讲解的内容为 php cookie
