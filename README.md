@@ -1,3 +1,3 @@
-# lesson-16
+# lesson-17
 
-##### 主要讲解的内容为 php cookie
+##### 主要讲解的内容为 php ajax
