@@ -1,3 +1,3 @@
-# lesson-13
+# lesson-14
 
-##### 主要讲解的内容为 php filters
+##### 主要讲解的内容为 php 邮件验证
