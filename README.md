@@ -1,3 +1,3 @@
-# lesson-14
+# lesson-15
 
-##### 主要讲解的内容为 php 邮件验证
+##### 主要讲解的内容为 php session
